@@ -11,7 +11,7 @@
 
 
 
-## Album
+## Album Songs Page
 
 <img width="1440" alt="Screenshot 2022-10-25 at 1 00 16 AM" src="https://user-images.githubusercontent.com/73573652/197609893-32772c8f-86f2-46e1-a1f3-7ff541554091.png">
 
