@@ -1,13 +1,31 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  text-decoration: none;
+}
+html,body{
+  overflow-x: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.menu-icon { display: none; }
+@media (max-width: 768px) {
+  .menu-icon { 
+    display: block;
+  }
 }
+
+.back-gradient-blue {
+  background-image: linear-gradient(to bottom right, #15127A, #1E172E);
+}
+
+.login-page {
+  background-image: url("https://assets.website-files.com/5f723f17079784254fd79f6d/60f8d9cbcf838a29521a7385_background-about-hero-tech-ui-kit-webflow-template.svg");
+  object-fit: cover;
+}
+
+
