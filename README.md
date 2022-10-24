@@ -1,8 +1,6 @@
 
+# 🔴  Beat-Box     ## <a href="https://skj-beat-box.netlify.app/" target="_blank">LIVE DEMO</a>
 
-
-
-<h1> Beat-Box </h1>
 
 <img width="1440" alt="Screenshot 2022-10-20 at 11 28 48 PM" src="https://user-images.githubusercontent.com/73573652/197608530-c5547a85-5171-4651-9e87-2111cf5d330f.png">
 
